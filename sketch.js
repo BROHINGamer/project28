@@ -17,7 +17,7 @@ function setup() {
 	world = engine.world;
 var boy
 	//Create the Bodies Here.
-boy = Matter.constraint.create
+boy = Matter.create
 boy.loadImage("project28/boy.png")
 	Engine.run(engine);
   
